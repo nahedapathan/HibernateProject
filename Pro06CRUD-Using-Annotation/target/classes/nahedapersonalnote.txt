@@ -1,0 +1,14 @@
+1.Create Maven Project
+
+2.Add dependency in pom.xml
+   ->hibernate core
+   ->mysql-j 
+   
+   both dependency in 
+   google maven repository
+   
+3.add hibernate file in
+   src/main/resources
+   
+ ->add mapping in hibernate 
+ 
