@@ -1,0 +1,6 @@
+first create hibernate.cfg.xml
+
+then add librariry
+    hibernate 
+    mysql connector
+   
